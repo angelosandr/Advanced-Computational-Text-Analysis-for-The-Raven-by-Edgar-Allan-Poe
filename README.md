@@ -1,0 +1,2 @@
+# Advanced-Computational-Text-Analysis-for-The-Raven-by-Edgar-Allan-Poe
+This project implements 15+ advanced NLP techniques from computational linguistics research to analyze "The Raven" by Edgar Allan Poe, at multiple linguistic levels: lexical, syntactic, semantic, discourse, and cognitive. Unlike basic NLP tools, this framework provides: Linguistic complexity metrics, Information-theoretic analysis and many more
